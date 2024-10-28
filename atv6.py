@@ -1,0 +1,5 @@
+entrada1=input("Digite o conjunto 1 ")
+entrada2=input("Digite o conjunto 2 ")
+c1=set(entrada1)
+c2=set(entrada2)
+print(c1.intersection(c2))
